@@ -18,7 +18,7 @@ _If in doubt, check the examples provided… and remember, if you’re unsure be
 ## How to use genaithics codes?
 
 ### Source code files
-- Add the genaithics code genaithics as text in the headers comments.
+- Add the genaithics code as text in the headers comments.
 - Add it to your `README.md` as a `badge` picking one of those:
 
 ```markdown
