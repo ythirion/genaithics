@@ -2,7 +2,7 @@
 A genaithics code is information that a content creator chooses to add to their digital file to inform their audience about the extent of generative AI (“gen AI”) involvement during the creation process.
 
 # The genaithics codes
-There are currently 4 genaithics codes available, either as a badge or as text.
+There are currently 4 genaithics codes available, either as a ![badge]() or as text.
 
 | badge     | text     | description     |
 |--------------|---------------|---------------|
@@ -16,21 +16,21 @@ _If in doubt, check the examples provided… and remember, if you’re unsure be
 ## How to use genaithics codes?
 
 ### Source code files
-Add the genaithics code genaithics as text in the headers comments.
+- Add the genaithics code genaithics as text in the headers comments.
 
 ### Office documents
-Add the badge in the header, footer or cover page.
-Add the text mention in the metadata.
+- Add the badge in the header, footer or cover page.
+- Add the text mention in the metadata.
 
 ### Photos, images, graphic illustrations
-Add the text mention in the metadata.
+- Add the text mention in the metadata.
 
 ### Videos
-At a minimum: add the text mention in the metadata.
-Add the badge at the end of the video (or as an overlay during the video if possible).
+- At a minimum: add the text mention in the metadata.
+- Add the badge at the end of the video (or as an overlay during the video if possible).
 
 ### Audios files
-Add the text mention in the metadata.
+- Add the text mention in the metadata.
 
 ## Examples
 Want to add a genaithics code but not sure which one to choose?
