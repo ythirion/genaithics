@@ -1,46 +1,44 @@
-# What are the genaithics code?
-A genaithics code is information that a content creator chooses to add to their digital file to inform their audience about the extent of generative AI (“gen AI”) involvement during the creation process.
+# C’est quoi les codes genaithics ?
+C’est une information que le créateur de contenu décide d’ajouter dans son fichier numérique pour informer son audience de la part d’IA générative (« gen AI ») utilisée pendant le processus de création.
 
-# The genaithics codes
-There are currently 4 genaithics codes available, either as a badge or as text.
-
-| badge     | text     | description     |
+# Les codes genaithics
+Il y a actuellement 4 codes genaithics disponibles, sous forme de badge ou de texte :
+| badge visuel     | mention texte     | description     |
 |--------------|---------------|---------------|
-| Ligne 1 A    | genaithics-H-Z     | Zero IA used. 100% human based creation.|
-| Ligne 2 A    | genaithics-H-1-H     | IA used for small and **minor corrections**. <br>**Final validation finale done by human.**|
-| Ligne 3 A    | genaithics-H-2-H     | AI used to improve **form and structure**, without altering content, intent or meaning. <br>**Final validation finale done by human**.|
-| Ligne 4 A    | genaithics-3-H     | Content produced entirely by an AI, supervised by a human via “prompts”.<br>**Final validation done by human**.|
+| Ligne 1 A    | genaithics-H-Z     | **Zéro intervention de l’IA.**<br> Production 100% réalisée par un humain.|
+| Ligne 2 A    | genaithics-H-1-H     | IA utilisée pour des **corrections mineures**. <br>**Validation finale par un humain.**|
+| Ligne 3 A    | genaithics-H-2-H     | IA utilisée pour des améliorations de **forme**, de **structure**, sans altération du fond, de l’intention ou du sens. <br>**Validation finale par un humain.**.|
+| Ligne 4 A    | genaithics-3-H     | Contenu **entièrement produit par une IA**, sous supervision par un humain via « prompts ».<br>**Validation finale par un humain.**.|
 
+En cas de doute, consultez les exemples fournis… et n’oubliez pas si vous hésitez entre 2 codes genaithics : le plus important, c’est la transparence vis-à-vis de votre audience qui fera de votre démarche un usage éthique et responsable.
 
-If in doubt, check the examples provided… and remember, if you’re unsure between two genaithics codes: the most important thing is transparency with your audience, which will make your approach ethical and responsible.
+# Comment utiliser les codes genaithics ?
 
-# How to use genaithics codes?
+## Codes informatiques
+•	Ajoutez le code genaithics en mention texte dans les commentaires dans vos headers
 
-## Source code files
-Add the genaithics code genaithics as text in the headers comments.
+## Fichiers bureautiques
+•	Ajoutez le badge en en-tête ou pied de page ou sur la page de garde.
+•	Ajoutez la mention texte dans les métas donnés.
 
-## Office documents
-Add the badge in the header, footer or cover page.
-Add the text mention in the metadata.
+## Photos, images, illustrations graphiques
+•	Ajoutez la mention texte dans les métas donnés.
 
-## Photos, images, graphic illustrations
-Add the text mention in the metadata.
+## Vidéos
+•	A minima : ajoutez la mention texte dans les métas donnés.
+•	Ajoutez le badge en fin de vidéo (ou en parasite pendant la vidéo).
 
-## Videos
-At a minimum: add the text mention in the metadata.
-Add the badge at the end of the video (or as an overlay during the video if possible).
+## Fichiers audios
+•	Ajoutez la mention texte dans les métas donnés.
 
-## Audios files
-Add the text mention in the metadata.
+# Exemples
+Vous souhaitez ajouter un code genaithics mais vous n’êtes pas sur de vous et vous ne savez pas lequel choisir ?
+Voici quelques exemples… et n’oubliez pas que le plus important, c’est la transparence vis-à-vis de votre audience qui fera de votre démarche un usage éthique et responsable.
 
-# Examples
-Want to add a genaithics code but not sure which one to choose?
-Here are some examples… and remember that the most important thing is transparency with your audience, which makes your approach ethical and responsible.
-
-# KISS
+# KISS - restez simple
 Keep It Sweet and Simple! 
-No matter how many iterations and loops there are between the human and the AI in the creation process: what matters is transparency.
-The genaithics codes are designed to address a central concern in organizations: enhancing transparency and building lasting trust, both internally and externally, when content is produced (or modified) with the help of generative AI. Don’t make your workload heavier than necessary—use the genaithics codes when you think it’s important.
+•	Peu importe le **nombre d'itérations et boucles** entre l’humain et l’IA dans le processus de création : ce qui reste important c'est la **transparence**.
+•	Les codes genaithics ont été conçus pour répondre à un enjeu central dans les organisations : renforcer la transparence et bâtir une relation de confiance durable, en interne comme en externe, lorsqu’un contenu est produit (ou modifié) avec l’aide d’une IA générative. **N’alourdissez pas inutilement votre charge de travail et utilisez les codes genaithics lorsque vous le jugez important.**
 
-# How much do genaithics codes cost?
-Genaithics codes are 100% free and covered by a Creative Commons CC-BY-NC-ND license.
+# Combien coutent les codes genaithics ?
+Les codes genaithics sont 100% gratuits et couverts par une licence Creative Commons CC-BY-NC-ND.
