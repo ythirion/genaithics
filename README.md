@@ -32,7 +32,7 @@ _If in doubt, check the examples provided… and remember, if you’re unsure be
 [![genaithics-H-2-H](https://github.com/Mathieu-genAI/genaithics/raw/main/img/genaithics_code_H-2-H_208x100.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
 
 // genaithics-3-H
-[![genaithics-3-H](https://github.com/Mathieu-genAI/genaithics/raw/main/img/genaithics_code_3-H_208x100.png) ](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
+[![genaithics-3-H](https://github.com/Mathieu-genAI/genaithics/raw/main/img/genaithics_code_3-H_208x100.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
 ```
 
 ### Office documents
