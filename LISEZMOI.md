@@ -17,7 +17,8 @@ _En cas de doute, consultez les exemples fournis… et n’oubliez pas si vous h
 ## Comment utiliser les codes genaithics ?
 
 ### Codes informatiques
-•	Ajoutez le code genaithics en mention texte dans les commentaires dans vos headers
+- Ajoutez le code genaithics en mention texte dans les commentaires dans vos headers
+- Ajoutez le à votre README.md comme badge en choisissant l'un des 4:
 
 ```markdown
 // genaithics-H-Z
