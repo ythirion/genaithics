@@ -19,6 +19,20 @@ _En cas de doute, consultez les exemples fournis… et n’oubliez pas si vous h
 ### Codes informatiques
 •	Ajoutez le code genaithics en mention texte dans les commentaires dans vos headers
 
+```markdown
+// genaithics-H-Z
+[![genaithics-H-Z](https://github.com/Mathieu-genAI/genaithics/raw/main/img/genaithics_code_H-Z_104x50.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
+
+// genaithics-H-1-HZ
+[![genaithics-H-1-HZ](https://github.com/Mathieu-genAI/genaithics/raw/main/img/genaithics_code_H-1-H_104x50.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
+
+// genaithics-H-2-H
+[![genaithics-H-2-H](https://github.com/Mathieu-genAI/genaithics/raw/main/img/genaithics_code_H-2-H_104x50.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
+
+// genaithics-3-H
+[![genaithics-3-H](https://github.com/Mathieu-genAI/genaithics/raw/main/img/genaithics_code_3-H_104x50.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
+```
+
 ### Fichiers bureautiques
 •	Ajoutez le badge en en-tête ou pied de page ou sur la page de garde.
 •	Ajoutez la mention texte dans les métas donnés.
