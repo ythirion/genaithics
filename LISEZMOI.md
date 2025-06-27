@@ -1,6 +1,8 @@
 # C’est quoi les codes genaithics ?
 C’est une information que le créateur de contenu décide d’ajouter dans son fichier numérique pour informer son audience de la part d’IA générative (« gen AI ») utilisée pendant le processus de création.
 
+Toutes les informations sont sur www.genaithics.org
+
 # Les codes genaithics
 Il y a actuellement 4 codes genaithics disponibles, sous forme de badge ou de texte :
 | badge visuel        | mention texte     | description     |
