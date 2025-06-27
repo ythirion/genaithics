@@ -35,6 +35,12 @@ _En cas de doute, consultez les exemples fournis… et n’oubliez pas si vous h
 Vous souhaitez ajouter un code genaithics mais vous n’êtes pas sur de vous et vous ne savez pas lequel choisir ?
 Voici quelques exemples… et n’oubliez pas que le plus important, c’est la transparence vis-à-vis de votre audience qui fera de votre démarche un usage éthique et responsable.
 
+| badge     | source code     | office     | graphics |
+|--------------|---------------|---------------|---------------|
+| ![genaithics-H-1-H](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-1-H_208x100.png) | Auto-completION par l' IDE | Corrections orthographiques, grammaire ou syntaxe.|Correction du grain, de la netteté, suppression des défauts de scanner,etc. |
+| ![genaithics-H-2-HZ](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-2-H_208x100.png) | Re factoring : amélioration de la sécurité, optimisation de la performance, etc. | Réorganisation de la structure, nouveau chapitrage, production d’un résumé, etc.|Correction of horizontal frame, white balance, contrast, etc.|Correction du cadre horizontal, de la balance des blancs, du contraste, etc. |
+| ![genaithics-3-H](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_3-H_208x100.png) | Création sans production humaine en entrée, directement depuis un prompt. | Création sans production humaine en entrée, directement depuis un prompt. |Création sans production humaine en entrée, directement depuis un prompt.|
+
 ## KISS - restez simple
 Keep It Sweet and Simple! 
 •	Peu importe le **nombre d'itérations et boucles** entre l’humain et l’IA dans le processus de création : ce qui reste important c'est la **transparence**.
@@ -42,3 +48,4 @@ Keep It Sweet and Simple!
 
 # Combien coutent les codes genaithics ?
 Les codes genaithics sont 100% gratuits et couverts par une licence Creative Commons CC-BY-NC-ND.
+![CC-BY-NC-ND](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png)
