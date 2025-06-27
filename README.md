@@ -19,6 +19,21 @@ _If in doubt, check the examples provided… and remember, if you’re unsure be
 
 ### Source code files
 - Add the genaithics code genaithics as text in the headers comments.
+- Add it to your `README.md` as a `badge` picking one of those:
+
+```markdown
+// genaithics-H-Z
+[![genaithics-H-Z](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-Z_208x100.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
+
+// genaithics-H-1-HZ
+[![genaithics-H-1-HZ](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-1-H_208x100.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
+
+// genaithics-H-2-H
+[![genaithics-H-2-H](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-2-H_208x100.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
+
+// genaithics-3-H
+[![genaithics-3-H](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_3-H_208x100.png) ](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
+```
 
 ### Office documents
 - Add the badge in the header, footer or cover page.
