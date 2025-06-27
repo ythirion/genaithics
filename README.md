@@ -1,6 +1,8 @@
 # What are the genaithics code?
 A genaithics code is information that a content creator chooses to add to their digital file to inform their audience about the extent of generative AI (“gen AI”) involvement during the creation process.
 
+More information on www.genaithics.org
+
 # The genaithics codes
 There are currently 4 genaithics codes available, either as a ![badge](https://github.com/Mathieu-genAI/genaithics/tree/main/img) or as text.
 
