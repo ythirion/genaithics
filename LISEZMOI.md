@@ -3,12 +3,12 @@ C’est une information que le créateur de contenu décide d’ajouter dans son
 
 # Les codes genaithics
 Il y a actuellement 4 codes genaithics disponibles, sous forme de badge ou de texte :
-| badge visuel     | mention texte     | description     |
+| badge visuel        | mention texte     | description     |
 |--------------|---------------|---------------|
-| ![genaithics-H-Z]()    | genaithics-H-Z     | **Zéro intervention de l’IA.**<br> Production 100% réalisée par un humain.|
-| ![genaithics-H-1-H]()    | genaithics-H-1-H     | IA utilisée pour des **corrections mineures**. <br>**Validation finale par un humain.**|
-| ![genaithics-H-2-H]()    | genaithics-H-2-H     | IA utilisée pour des améliorations de **forme**, de **structure**, sans altération du fond, de l’intention ou du sens. <br>**Validation finale par un humain.**.|
-|![genaithics-3-H]()    | genaithics-3-H     | Contenu **entièrement produit par une IA**, sous supervision par un humain via « prompts ».<br>**Validation finale par un humain.**.|
+| ![genaithics-H-Z](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-Z_208x100.png)    | genaithics-H-Z     | **Zéro intervention de l’IA.**<br> Production 100% réalisée par un humain.|
+| ![genaithics-H-1-H](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-1-H_208x100.png)    | genaithics-H-1-H     | IA utilisée pour des **corrections mineures**. <br>**Validation finale par un humain.**|
+| ![genaithics-H-2-H](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-2-H_208x100.png)    | genaithics-H-2-H     | IA utilisée pour des améliorations de **forme**, de **structure**, sans altération du fond, de l’intention ou du sens. <br>**Validation finale par un humain.**.|
+|![genaithics-3-H](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_3-H_208x100.png)    | genaithics-3-H     | Contenu **entièrement produit par une IA**, sous supervision par un humain via « prompts ».<br>**Validation finale par un humain.**.|
 
 En cas de doute, consultez les exemples fournis… et n’oubliez pas si vous hésitez entre 2 codes genaithics : le plus important, c’est la transparence vis-à-vis de votre audience qui fera de votre démarche un usage éthique et responsable.
 
