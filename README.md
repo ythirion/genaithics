@@ -4,7 +4,7 @@ A genaithics code is information that a content creator chooses to add to their 
 More information on www.genaithics.org
 
 # The genaithics codes
-There are currently 4 genaithics codes available, either as a ![badge](https://github.com/Mathieu-genAI/genaithics/tree/main/img) or as text.
+There are currently 4 genaithics codes available, either as a `badge` or as `text`.
 
 | badge     | text     | description     |
 |--------------|---------------|---------------|
@@ -25,8 +25,8 @@ _If in doubt, check the examples provided… and remember, if you’re unsure be
 // genaithics-H-Z
 [![genaithics-H-Z](https://github.com/Mathieu-genAI/genaithics/raw/main/img/genaithics_code_H-Z_104x50.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
 
-// genaithics-H-1-HZ
-[![genaithics-H-1-HZ](https://github.com/Mathieu-genAI/genaithics/raw/main/img/genaithics_code_H-1-H_104x50.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
+// genaithics-H-1-H
+[![genaithics-H-1-H](https://github.com/Mathieu-genAI/genaithics/raw/main/img/genaithics_code_H-1-H_104x50.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
 
 // genaithics-H-2-H
 [![genaithics-H-2-H](https://github.com/Mathieu-genAI/genaithics/raw/main/img/genaithics_code_H-2-H_104x50.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
